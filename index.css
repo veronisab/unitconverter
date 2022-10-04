@@ -79,4 +79,5 @@ button {
     padding: 10px 20px;
     width: 117px;
     display: block;
+    cursor: pointer;
 }
